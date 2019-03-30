@@ -32,8 +32,15 @@ Redis客户端：rdm<br>
 java反编译：jd-gui<br>
 画图（类似win）：sketchBook<br>
 工具栏日期增强：万年历<br>
-
-
+==============实用网址=================<br>
+vip电影破解：<br>
+* http://www.7dds.com/<br>
+* http://www.btbtdy.me<br>
+* http://mv.688ing.com/<br>
+* http://www.qmaile.com/<br>
+* http://www.sjzvip.cn/<br>
+证件照：<br>
+* 改图宝
 
 
 
