@@ -33,6 +33,9 @@ java反编译：jd-gui<br>
 画图（类似win）：sketchBook<br>
 工具栏日期增强：万年历<br>
 IntelliJ IDEA 注册码：http://idea.lanyus.com/<br>
+github二次验证App：Duo Mobile<br>
+语音实时翻译(出国使用)：sayHi<br>
+国外文本实时翻译：有道词典app
 ==============实用网址=================<br>
 vip电影破解：<br>
 * http://www.7dds.com/<br>
